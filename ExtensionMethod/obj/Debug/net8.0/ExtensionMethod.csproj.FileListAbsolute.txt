@@ -1,0 +1,14 @@
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.AssemblyInfoInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.AssemblyInfo.cs
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.csproj.CoreCompileInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod.deps.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod.runtimeconfig.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExtensionMethod/bin/Debug/net8.0/ExtensionMethod.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExtensionMethod/obj/Debug/net8.0/refint/ExtensionMethod.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExtensionMethod/obj/Debug/net8.0/ExtensionMethod.genruntimeconfig.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExtensionMethod/obj/Debug/net8.0/ref/ExtensionMethod.dll

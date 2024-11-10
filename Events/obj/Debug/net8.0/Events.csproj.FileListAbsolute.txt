@@ -1,0 +1,14 @@
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/Events/obj/Debug/net8.0/Events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/Events/obj/Debug/net8.0/Events.AssemblyInfoInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/Events/obj/Debug/net8.0/Events.AssemblyInfo.cs
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/Events/obj/Debug/net8.0/Events.csproj.CoreCompileInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/Events/bin/Debug/net8.0/Events
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/Events/bin/Debug/net8.0/Events.deps.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/Events/bin/Debug/net8.0/Events.runtimeconfig.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/Events/bin/Debug/net8.0/Events.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/Events/bin/Debug/net8.0/Events.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/Events/obj/Debug/net8.0/Events.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/Events/obj/Debug/net8.0/refint/Events.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/Events/obj/Debug/net8.0/Events.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/Events/obj/Debug/net8.0/Events.genruntimeconfig.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/Events/obj/Debug/net8.0/ref/Events.dll

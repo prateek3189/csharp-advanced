@@ -1,0 +1,14 @@
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling.deps.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling.runtimeconfig.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExceptionHandling/bin/Debug/net8.0/ExceptionHandling.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.AssemblyInfoInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.AssemblyInfo.cs
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExceptionHandling/obj/Debug/net8.0/refint/ExceptionHandling.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExceptionHandling/obj/Debug/net8.0/ExceptionHandling.genruntimeconfig.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/ExceptionHandling/obj/Debug/net8.0/ref/ExceptionHandling.dll

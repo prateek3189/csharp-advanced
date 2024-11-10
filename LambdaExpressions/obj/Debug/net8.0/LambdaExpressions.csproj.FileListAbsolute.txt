@@ -1,0 +1,14 @@
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LambdaExpressions/bin/Debug/net8.0/LambdaExpressions
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LambdaExpressions/bin/Debug/net8.0/LambdaExpressions.deps.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LambdaExpressions/bin/Debug/net8.0/LambdaExpressions.runtimeconfig.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LambdaExpressions/bin/Debug/net8.0/LambdaExpressions.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LambdaExpressions/bin/Debug/net8.0/LambdaExpressions.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LambdaExpressions/obj/Debug/net8.0/LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LambdaExpressions/obj/Debug/net8.0/LambdaExpressions.AssemblyInfoInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LambdaExpressions/obj/Debug/net8.0/LambdaExpressions.AssemblyInfo.cs
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LambdaExpressions/obj/Debug/net8.0/LambdaExpressions.csproj.CoreCompileInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LambdaExpressions/obj/Debug/net8.0/LambdaExpressions.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LambdaExpressions/obj/Debug/net8.0/refint/LambdaExpressions.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LambdaExpressions/obj/Debug/net8.0/LambdaExpressions.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LambdaExpressions/obj/Debug/net8.0/LambdaExpressions.genruntimeconfig.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LambdaExpressions/obj/Debug/net8.0/ref/LambdaExpressions.dll

@@ -1,0 +1,14 @@
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/NullableTypes/obj/Debug/net8.0/NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/NullableTypes/obj/Debug/net8.0/NullableTypes.AssemblyInfoInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/NullableTypes/obj/Debug/net8.0/NullableTypes.AssemblyInfo.cs
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/NullableTypes/obj/Debug/net8.0/NullableTypes.csproj.CoreCompileInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/NullableTypes/bin/Debug/net8.0/NullableTypes
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/NullableTypes/bin/Debug/net8.0/NullableTypes.deps.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/NullableTypes/bin/Debug/net8.0/NullableTypes.runtimeconfig.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/NullableTypes/bin/Debug/net8.0/NullableTypes.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/NullableTypes/bin/Debug/net8.0/NullableTypes.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/NullableTypes/obj/Debug/net8.0/NullableTypes.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/NullableTypes/obj/Debug/net8.0/refint/NullableTypes.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/NullableTypes/obj/Debug/net8.0/NullableTypes.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/NullableTypes/obj/Debug/net8.0/NullableTypes.genruntimeconfig.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/NullableTypes/obj/Debug/net8.0/ref/NullableTypes.dll

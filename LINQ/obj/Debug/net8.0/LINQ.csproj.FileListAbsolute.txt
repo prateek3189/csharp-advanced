@@ -1,0 +1,14 @@
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LINQ/bin/Debug/net8.0/LINQ
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LINQ/bin/Debug/net8.0/LINQ.deps.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LINQ/bin/Debug/net8.0/LINQ.runtimeconfig.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LINQ/bin/Debug/net8.0/LINQ.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LINQ/bin/Debug/net8.0/LINQ.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LINQ/obj/Debug/net8.0/LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LINQ/obj/Debug/net8.0/LINQ.AssemblyInfoInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LINQ/obj/Debug/net8.0/LINQ.AssemblyInfo.cs
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LINQ/obj/Debug/net8.0/LINQ.csproj.CoreCompileInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LINQ/obj/Debug/net8.0/LINQ.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LINQ/obj/Debug/net8.0/refint/LINQ.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LINQ/obj/Debug/net8.0/LINQ.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LINQ/obj/Debug/net8.0/LINQ.genruntimeconfig.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/csharp-advanced/LINQ/obj/Debug/net8.0/ref/LINQ.dll
